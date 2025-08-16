@@ -18,6 +18,7 @@ class Test1
 public static void main(String[] args)
 {
 test t=new test(3);
+test t1 = new test(4);
 System.out.println(t);
 System.out.println("SRK's class");
 }
